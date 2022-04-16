@@ -1,4 +1,4 @@
-# day-1-vue
+# Diogo Akio | Quadra Collective
 
 ## Project setup
 ```
